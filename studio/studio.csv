@@ -1,0 +1,6 @@
+Designator,Comment,Parameter 1,nBlocksParameter1,Parameter 2,nBlocksParameter2,ComponentLink1URL
+
+"N1","Ticker","","1000","","","https://github.com/nBlocksStudioNodes/nblocks_ticker"
+"N2","Counter","AutoResetValue","10","","","https://github.com/nBlocksStudioNodes/nblocks_counter"
+"N3","StringFormat","formatString","""%d""","","","https://github.com/nBlocksStudioNodes/nblocks_stringformat"
+"N4","StringSerial","pinTX","P0_31","pinRX","P0_2","https://github.com/nBlocksStudioNodes/nblocks_stringserial"
