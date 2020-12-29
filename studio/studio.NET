@@ -5,6 +5,7 @@ Ticker                          N1
 Counter                         N2             
 StringFormat                    N3             
 StringSerial                    N4             
+Blink                           N7             
 
 <<< Wire List >>>
 

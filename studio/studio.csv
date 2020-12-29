@@ -4,3 +4,4 @@ Designator,Comment,Parameter 1,nBlocksParameter1,Parameter 2,nBlocksParameter2,C
 "N2","Counter","AutoResetValue","10","","","https://github.com/nBlocksStudioNodes/nblocks_counter"
 "N3","StringFormat","formatString","""%d""","","","https://github.com/nBlocksStudioNodes/nblocks_stringformat"
 "N4","StringSerial","pinTX","P0_31","pinRX","P0_2","https://github.com/nBlocksStudioNodes/nblocks_stringserial"
+"N7","Blink","period(ms)","250","pinOut","P0_17","https://github.com/nBlocksStudioNodes/nblocks_blink"
